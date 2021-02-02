@@ -1,5 +1,6 @@
 # iphone
-Projek Website Sistem Informasi Jual Beli iPhone, yang saya buat untuk kebutuhan konsumen bernama Risa Asfia NPM 18710030.
+Projek Website Sistem Informasi Jual Beli iPhone, 
+saya buat untuk kebutuhan konsumen bernama Risa Asfia NPM 18710030.
 Syarat : background warna pink.
 
 Aplikasi yang digunakan :
